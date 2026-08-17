@@ -44,6 +44,12 @@ The datasets used for this project were obtained from the authors' Epilepsy Meta
 
 The datasets are not included in this repository.
 
+## References
+
+-Durante, G. L., Tyler, A. L., Scott, R. C., Hernan, A. E., & Mahoney, J. M. Meta-analysis of genetic mapping studies in mice reveals candidate epilepsy modifier genes that are outside the current drug development landscape. Epilepsia. Original Paper
+-The datasets and original analysis code are available in the authors' GitHub repository:
+Epilepsy Meta-Analysis GitHub Repository
+
 ## About the Project
 
 This project was completed for BIOL 425, a computational biology course at Hunter College. The goal was to work with data and code from a published biological study and reproduce one of the figures from the original research.
